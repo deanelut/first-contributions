@@ -6855,3 +6855,4 @@ Ghazi Khan
 - [Rookie-Chao](https://github.com/Rookie-Chao)
 - [Darth-Maul](https://github.com/hockeyfrissa)
 - [Lucatake](https://github.com/Lucatake)
+- [deanelut](https://github.com/deanelut)
